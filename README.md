@@ -153,3 +153,5 @@ worksheet.update(data, 'A1')
 ## Data Analytics
 * MS PowerBI - a business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities with an easy-to-use interface for end users to create their own reports and dashboards.
 > The SSOT will be directly imported into PowerBI through the Google Sheet connector found in PowerBI.
+
+> Refer to 'Data_Analysis.md' for the next part
