@@ -12,3 +12,4 @@ This document outlines a personal project leveraging Google APIs for data aggreg
 * MS PowerBI - a business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities with an easy-to-use interface for end users to create their own reports and dashboards.
 
 ## Google_API.ipynb
+The objective of the python script is to automatically collate the transactions from each individual spreadsheet into a single source of truth. 
