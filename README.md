@@ -10,10 +10,13 @@ This document outlines a personal project leveraging Google APIs for data aggreg
 
 ## Google_API.ipynb
 The objective of the python script is to automatically collate the transactions from each individual spreadsheet into a Single Source of Truth(SSOT). 
+> [!IMPORTANT]
 > A Service Account is required to run this script - Free to register for one.
 
+> [!IMPORTANT]
 > Google Sheet API must be activated from the Google Dev Console.
 
+> [!IMPORTANT]
 > Each individual spreadsheet must be shared with the service account.
 
 ### Importing Python Libraries
