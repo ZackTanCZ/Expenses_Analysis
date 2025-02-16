@@ -10,7 +10,7 @@ I. Basic Data Exploration & Summarization (Getting Started):
 
 - [x] What's my total spending for a given period (e.g., this month, last month, this year)? (Measures, DAX SUM function)
 <details>
-   <summary>Click to reveal answer</summary>
+   <summary>Total Expenses for the month</summary>
    Using DAX Measure - To find the total for the month
 
 ```
@@ -26,13 +26,14 @@ TotalExpenses
 
 - [ ] What's my average daily/weekly/monthly spending? (Measures, DAX AVERAGE function)
 <details>
-   <summary>Click to reveal answer</summary>
-  Invoking the 'Average()' function doesn't work because of the data format. Each day's expenses are broken down to different rows.
+   <summary>Daily Average for the Month</summary>
+  Invoking the 'Average()' function doesn't work as each day's expenses are broken down to different rows.
   
   Instead, we will need to further processing to refine the table with two possible approaches.
 
  <details>
    <summary>Using PowerQuery</summary>
+   Performs a GROUPBY function to group all transactions according to the date.
 
 ```
 let
@@ -59,11 +60,45 @@ in
 
 <details>
   <summary>Using DAX Measure</summary>
+  Invoke the AVERAGE() function on the [GroupBy Amount] column to the average per day.
 
 ```
-WIP
+DailyAverageExpenses = 
+VAR SelectedMonth = SELECTEDVALUE('Expenses'[Month]) // get the value from the month slicer
+VAR SelectedYear = SELECTEDVALUE('Expenses'[Year]) // get the value from the year slicer
+RETURN
+
+CALCULATE(
+    AVERAGE('GroupBy Table'[GroupBy Amount]),
+    'GroupBy Table'[Month] = SelectedMonth,
+    'GroupBy Table'[Year] = SelectedYear
+)
 ```
 </details>
+</details>
+
+<details>
+   <summary>Weekly Average for the Month</summary>
+   One Approach is to create a table grouping records based on the **week of the month**. However, this is not recommended because this is not efficient.
+
+<details>
+  <summary>Using PowerQuery</summary>
+   
+```
+
+```
+
+</details>
+
+<details>
+  <summary>Using DAX Measure</summary>
+   
+```
+
+```
+
+</details>
+
 </details>
 
 - [ ] How much did I spend in each category (e.g., food, transportation, entertainment)? (Visualizations like bar charts, pie charts; grouping and aggregation)
