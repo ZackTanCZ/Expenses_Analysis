@@ -3,9 +3,9 @@ The PowerBI Dashboard (PBIB) provides an overview of personal expenses, and brea
 The PBIB also act as a platform to learn and apply different skillsets (e.g. DAX, Data Modelling practices, ETL(using Python, Power Query & M) and answer various question about the user spending habits.
 For Example,
 
-* What is the total expenses til date?
-* What is the average spending
-* Which category incurred the most expense 
+* What is the total expenses to date?
+* What is the average spending?
+* Which category incurred the most expense? 
   
 
 The PBIB consist of two pages of report. The first page provides an bird's eye view 
