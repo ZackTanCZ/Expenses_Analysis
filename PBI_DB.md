@@ -24,16 +24,23 @@ The PBIB consist of two pages of report. The first page provides an bird's eye v
 Panel #01 serves as an general overview of expenses for the selected year, displaying several key statistics such as the total expenses and average expenses per month. It also highlights the month with the highest and lowest expenses. The line chart visually summurise expenses as a monthly basis, visually highlighting months with abnormally high expense.    
 
 ### Panel #02
-Panel #02 goes into deeper details by breaking down expenses on a monthly basis. It compares monthly expenses relative to the previous month's expenses.
+Panel #02 goes into deeper details by breaking down expenses on a monthly basis. It compares monthly expenses relative to the previous month's expenses. Notice that the `Month over Month Change (%)` column is color-coded to visually present the Month over Month changes. Red(Blue) implying an expense increase(decrease) from the prior month. This allows the audience to quickly identify an area of interest and drill in for further details. One leading example is October, from panel #01, the month of October is observed to have an sharp **increase of 119% from the previous month**. 
 
-### Panel #03
+The button enables a graphic representation of the relative changes between each month, providing a more condensed view.
 
+### Panel #03 & Panel #04
+Panel #03 take a different approach to analysing expenses by highlighting the top 3 categories. By default, the bar chart aggregates the top 3 categories based on the entire year's expenses. This can be narrowed to a particular month by selecting a month in panel #02. 
 
+The button enables an aggregated view of the top 3 categories on an annual basis, displaying each category for each month and it's cumulative total. 
 
-### Panel #04
+Panel #04 provides a greater level of granularity by breaking down expenses into sub-categories relative to the total expenses. This allows the audience to gain a better understanding of their spending habits, giving them insight to better manage their financials.
 
+### Insights
+An steep increase in expenses was observed in October 2024. This increase in expenses amounted to 119% from September and it is an significant increase, considering the fact that expenses in September had risen by 41%. One unintended side effect of this sudden spike is that average expenses has been skewed towards the higher end, leading to the false impression of a higher average expense. This could result in an overly-inflated forecast of furture expenses. 
 
+From panel #03, the 'Food' category has the lion's share of annual expenses (63.1%). This is to be expected as Food is an consistent expense incurred daily by everyone, regardless of their financial commitment. Panel #04 breaks down the 'Food' category further, and notice that bulk of this expenses originated from 'Dinner'. This implies that one possible strategy to reducing expenses is to source of cheaper food alternative.
 
+The second highest category is 'Personal', amounting to 24.22% of overall expenses. Breaking the category down, 'S24 FE' sub category has the highest weightage
 
 ## Breakdown Page
 
