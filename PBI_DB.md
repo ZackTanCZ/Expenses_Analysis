@@ -9,7 +9,7 @@ For Example,
 * Which category incurred the most expense? 
   
 
-The PBIB consist of two pages of report. The first page provides an bird's eye view 
+The PBIB consist of two pages of report. The first page provides an bird's eye view of the dataset, while the second page breaks down each month's expenses.
 
 ## Summary Page
 
