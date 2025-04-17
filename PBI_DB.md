@@ -20,6 +20,8 @@ The PBIB consist of two pages of report. The first page provides an bird's eye v
 
 </details>
 
+[Streamlit Implementation](https://mainpy-t6ryjmv5dd4yxeoz5wxtna.streamlit.app/)
+
 ### Panel #01
 Panel #01 serves as an general overview of expenses for the selected year, displaying several key statistics such as the total expenses and average expenses per month. It also highlights the month with the highest and lowest expenses. The line chart visually summurise expenses as a monthly basis, visually highlighting months with abnormally high expense.    
 
