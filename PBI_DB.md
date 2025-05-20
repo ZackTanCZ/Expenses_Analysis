@@ -26,7 +26,7 @@ The PBIB consist of two pages of report. The first page provides an bird's eye v
 Panel #01 serves as an general overview of expenses for the selected year, displaying several key statistics such as the total expenses and average expenses per month. It also highlights the month with the highest and lowest expenses. The line chart visually summurise expenses as a monthly basis, visually highlighting months with abnormally high expense.    
 
 ### Panel #02
-Panel #02 goes into deeper details by breaking down expenses on a monthly basis. It compares monthly expenses relative to the previous month's expenses. Notice that the `Month over Month Change (%)` column is color-coded to visually present the Month over Month changes. Red(Blue) implying an expense increase(decrease) from the prior month. This allows the audience to quickly identify an area of interest and drill in for further details. One leading example is October, from panel #01, the month of October is observed to have an sharp **increase of 119% from the previous month**. 
+Panel #02 goes into deeper details by breaking down expenses on a monthly basis. It compares monthly expenses relative to the previous month's expenses. Notice that the `Month over Month Change (%)` column is color-coded to visually present the Month over Month changes. Red(Green) implying an expense increase(decrease) from the prior month. This allows the audience to quickly identify an area of interest and drill in for further details. One leading example is October, from panel #01, the month of October is observed to have an sharp **increase of 119% from the previous month**. 
 
 The button enables a graphic representation of the relative changes between each month, providing a more condensed view.
 
