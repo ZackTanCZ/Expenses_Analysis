@@ -37,7 +37,7 @@ The button enables an aggregated view of the top 3 categories on an annual basis
 
 Panel #04 provides a greater level of granularity by breaking down expenses into sub-categories relative to the total expenses. This allows the audience to gain a better understanding of their spending habits, giving them insight to better manage their financials.
 
-### Insights
+### Obervation
 An steep increase in expenses was observed in October 2024. This increase in expenses amounted to 119% from September and it is an significant increase, considering the fact that expenses in September had risen by 41%. One unintended side effect of this sudden spike is that average expenses has been skewed towards the higher end, leading to the false impression of a higher average expense. This could result in an overly-inflated forecast of future expenses. 
 
 From panel #03, the 'Food' category has the lion's share of annual expenses (63.1%). This is to be expected as Food is an consistent expense incurred daily by everyone, regardless of their financial commitment. Panel #04 breaks down the 'Food' category further, and notice that bulk of this expenses originated from 'Dinner'. This implies that one possible strategy to reducing expenses is to source of cheaper food alternative.
