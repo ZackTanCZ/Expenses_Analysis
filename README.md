@@ -18,6 +18,12 @@ This project aims to analyze my personal expense data to gain a clear understand
 
 The goal is to use data-driven insights to take control of my financial status, avoid surprises, and build better money management habits that align with my financial goals.
 
+## ETL Process
+The ETL process will consist of data ingestion (through the use of Google API). There will be no transformation required as transaction data is well-formatted and ready for consumption as a Single Source of Truth (SSOT)
+
+>[!NOTE]
+>Refer to 'Google_API.md' for technical documentation
+
 ## Data Analytics
 * MS PowerBI - a business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities with an easy-to-use interface for end users to create their own reports and dashboards.
 >[!IMPORTANT]
