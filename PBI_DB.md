@@ -48,7 +48,7 @@ The second highest category is 'Personal', amounting to 24.22% of overall expens
 <details>
   <summary>Spending comparison between Weekend and Weekday</summary>
 
-  <img src ="https://github.com/user-attachments/assets/5968b14e-41c9-44d3-8516-aea00d85e7ed" width= "800"></img>
+  <img src ="https://github.com/user-attachments/assets/5968b14e-41c9-44d3-8516-aea00d85e7ed" width= "500"></img>
 
 </details>
 
@@ -57,7 +57,7 @@ The second highest category is 'Personal', amounting to 24.22% of overall expens
 <details>
   <summary>Spending comparison between Weekend and Weekday</summary>
 
-  <img src ="https://github.com/user-attachments/assets/b7a798de-0045-4e87-b245-b9c32175e23b" width= "800"></img>
+  <img src ="https://github.com/user-attachments/assets/b7a798de-0045-4e87-b245-b9c32175e23b" width= "500"></img>
 
 </details>
 
