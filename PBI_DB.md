@@ -1,15 +1,15 @@
 # An Introduction into PowerBI - An Analysis of Expenses
-The PowerBI Dashboard (PBIDB) provides an overview of personal expenses, and breaksdown each category of expenses into varying levels of granularity. It analyses the spending habits of the user to gain some insight on the expenses incurred.  
+The PowerBI Dashboard (DB) provides an overview of personal expenses, and breaksdown each category of expenses into varying levels of granularity. It analyses the spending habits of the user to gain some insight on the expenses incurred.  
 
-The PBIDB also act as a platform to learn and apply different skillsets (e.g. DAX, Data Modelling practices, ETL(using Python, Power Query & M) and answer various question about the user spending habits.
+The DB applies different skillsets (e.g. DAX, Data Modelling practices, ETL(using Python, Power Query & M) and answer various question about the user spending habits.
 For Example,
 
 * What is the total expenses to date?
 * What is the average spending?
 * Which category incurred the most expense? 
-  
+* Is there a difference in spending between the weekday and weekend
 
-The PBIB consist of two pages of report. The first page provides an bird's eye view of the dataset, while the second page breaks down each month's expenses.
+The PBIB consist of two pages of report. The first page provides an bird's eye view of the dataset, while the second page breaks down each month's expenses in greater detail.
 
 ## Summary Page
 
