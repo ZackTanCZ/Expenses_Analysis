@@ -16,7 +16,7 @@ The PBIB consist of two pages of report. The first page provides an bird's eye v
 <details>
   <summary>Summary Page</summary>
 
-  <img src ="https://github.com/user-attachments/assets/36d245ef-0349-41c5-b82a-cba1f3f5b6a1" width= "500"></img>
+  <img src ="https://github.com/user-attachments/assets/b68b887f-12fb-4314-b93a-ab5bd842fb76" width= "500"></img>
 
 </details>
 
