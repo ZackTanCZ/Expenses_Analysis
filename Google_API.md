@@ -12,6 +12,9 @@
   Google Colab is a free cloud-based Jupyter notebook environment that allows you to write and execute Python code in your browser.
 </details>
 
+>[!NOTE]
+>Please note that Google API is has restrictions on the number of API call request. You may run into issues trying to run the script. The only known solution is to keep trying.
+  
 ## Google_API.ipynb
 The objective of the python script is to automatically collate the transactions from each individual spreadsheet into a Single Source of Truth(SSOT). 
 > [!IMPORTANT]
