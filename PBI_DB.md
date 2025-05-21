@@ -44,12 +44,33 @@ From panel #03, the 'Food' category has the lion's share of annual expenses (63.
 
 The second highest category is 'Personal', amounting to 24.22% of overall expenses. Breaking the category down, 'S24 FE' sub category refers to a one-time big ticket purchase and carries the highest weightage, accounting for 71%(35%) of 'Personal'(Overall) expenses. This articificially inflate average expenses as this is not a recurring expenses. A realistic approach is to spread the cost across an arbitrary period for an more accurate estimate of average expenses. One suggestion is to use the expected lifespan of the device.
 
+
+<details>
+  <summary>Spending comparison between Weekend and Weekday</summary>
+
+  <img src ="https://github.com/user-attachments/assets/5968b14e-41c9-44d3-8516-aea00d85e7ed" width= "800"></img>
+
+</details>
+
+### Panel #05
+
+<details>
+  <summary>Spending comparison between Weekend and Weekday</summary>
+
+  <img src ="https://github.com/user-attachments/assets/b7a798de-0045-4e87-b245-b9c32175e23b" width= "800"></img>
+
+</details>
+
+### Panel #06
+
+
+
 ## Breakdown Page
 
 <details>
   <summary>Breakdown Page</summary>
 
-  <img src="https://github.com/user-attachments/assets/66fe2c4d-3332-4ecd-b414-4f5b684e713c" width="500"></img>
+  <img src="https://github.com/user-attachments/assets/70524d63-d814-45dc-a236-f877d653c15f" width="500"></img>
 
 </details>
 
