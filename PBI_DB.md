@@ -78,4 +78,6 @@ Personal expenses have seen linear growth from the period of January to Septembe
 
 </details>
 
+The breakdown page takes a concentrated approach and breakdowns the monthly expenses into different time intervals. Considering that expenses have been rather consistent throughout the months, apart from October, we will focus on attention on October. 
+
 ###
