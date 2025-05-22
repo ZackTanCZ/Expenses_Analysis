@@ -66,8 +66,8 @@ Finally, a weekend expenses spike in October was observed. Afterwhich, a 'V'-sha
 </details>
 
 ### Panel #06
-
-
+Panel 6 displays the annual growth of the top 3 expenses. Food and Home expenses have seen linear growth, implying that spendings have been consistent and predictable.  
+Personal expenses have seen linear growth from the period of January to September before having a steep spike in October. This is attributed to the big ticket purchase
 
 ## Breakdown Page
 
