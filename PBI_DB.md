@@ -78,6 +78,19 @@ Personal expenses have seen linear growth from the period of January to Septembe
 
 </details>
 
-The breakdown page takes a concentrated approach and breakdowns the monthly expenses into different time intervals. Considering that expenses have been rather consistent throughout the months, apart from October, we will focus on attention on October. 
+The breakdown page takes a concentrated approach and breakdowns the monthly expenses into different time intervals. Considering that expenses have been rather consistent throughout the months, apart from October, we will focus on attention on October.  
 
-###
+The total amount of expenses incurred is $1,952.05 which is 109.26% more than last month. Even when comparing against two month moving average, October's expenses is still 131.61% more. This establishes October as the month with the highest expense.  
+
+Personal (43.85%), Food (27.75%) and Health/Medical (16.62%) are the top 3 category of expenses. This contracts the finding from the summary page which found that the top 3 expenses are Food, Personal and Home. Delving further, the top 3 expenses by sub-categories are 'S24 FE', 'Dinner', 'IP Insurance'. One implication is the presense of an re-occuring annual expense (IP Insurance).
+
+The table visual breakdowns the change in each expenses relative to last month. Health/Medical expenses increased by 286.19% which is in order of magnitude higher than home expense, which explains the change in rankings.
+
+The weekday averages and weekend average compares and contrast the average expenses between weekdays and weekend to determine spending pattern. This is supported by the adjacent weekly table to identify the distribution of expenses across the month. It is observed that Week 4 of October has the highest weekly expenses, contributing 52.34% for October. 
+
+
+
+Finally, the line chart provides an overview of daily expenses. Majority of daily expenses are below the average, which is skewed by the abnormally high expense incurred. The tooltip displays each associated expenses to provide immediate feedback to users.
+
+## Conclusion
+
