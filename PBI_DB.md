@@ -53,9 +53,10 @@ The second highest category is 'Personal', amounting to 24.22% of overall expens
 </details>
 
 ### Panel #05
-Spending before June is consistent with spending on the weekend being slightly higher than on the weekday.  
-Average spending from June to September flips the script where week day spend is higher than the weekend.  
-On October, a spike in average spending is observed owning to a big ticket item purchase. Barring that, spending on weekends and weekday are consistent 
+Overall, the weekend and weekday expenses are rather consistent with minor fluctuation around the $20 - $40 range.  
+From the period of January to May, weekend expenses are consistently higher than weekday expenses.  
+Following the period of June to September, weekday expenses have increased and overtook weekend expenses.   
+Finally, a weekend expenses spike in October was observed. Afterwhich, a 'V'-shaped increase is observed in November and December.  
 
 <details>
   <summary>Annual Growth of Top 3 Expenses</summary>
