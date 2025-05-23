@@ -71,7 +71,6 @@ Personal expenses have seen linear growth from the period of January to Septembe
 
 </details>
 
-
 ## Breakdown Page
 
 <img src="https://github.com/user-attachments/assets/70524d63-d814-45dc-a236-f877d653c15f" width="500"></img>
@@ -89,11 +88,21 @@ The table visual breakdowns the change in each expenses relative to last month. 
 
 The weekday averages and weekend average compares and contrast the average expenses between weekdays and weekend to determine spending pattern. This is supported by the adjacent weekly table to identify the distribution of expenses across the month. It is observed that Week 4 of October has the highest weekly expenses, contributing 52.34% for October. 
 
-
-
-Finally, the line chart provides an overview of daily expenses. Majority of daily expenses are below the average, which is skewed by the abnormally high expense incurred. The tooltip displays each associated expenses to provide immediate feedback to users.
+Finally, the line chart provides an overview of daily expenses. Majority of daily expenses are below the average, of which the average has been skewed by the abnormally high expense incurred. The tooltip of each data point displays the associated category, providing immediate feedback to users.
 
 </details>
 
 ## Conclusion
+The dashboard provide an overview of expenses incurred in 2024, being further broken down into different time intervals. Annual expenses total up to $9,492.73, averaging at $791.06 per month. However, this average is inflated owing to the outlier month of October ($791.06 vs. $1,952.05). Despite this, expenses are consider rather low compared to the average singaporean.
+
+The outlier month of October receive our attention as it deviates greatly from the average. It is an substantial increase of 109.26% compared to the previous month's expenses. The top 3 expenses for October has changed to Food, Personal and Health/medical, with personal expense taking the lion share. Drilling through the data, this change is attributed to a big ticket item and the purchase of medical insurance. October's spending pattern focuses on non-essential, a stark contrast to the spending pattern of other months. 
+
+Among the different categories of expenses, the top 3 expenses (Food, Personal and Home) takes up 87.2% of overall expenses ($8,277.13). This implies that a much more frugal lifestyle with minimal luxuries as the top 3 expenses consist of basic necessities. This is further supported by the top 3 sub categories Dinner (56.13%), Rent (5.27%) and Wifi (4.06%). Dinner refers to the basic food necessity, Rent refers to shelter under one's head and Wifi refers to basic internet connectivity for daily function.  Following masglow's hierarchy of needs, these 3 sub-categories fall under the most basic needs, implying that expenses are barebones.  
+
+The spending pattern between weekends and weekdays are inconsistent. The period of Febuary to May have higher spendings on weekends while the period of June to September have higher spending on weekdays. One interesting observation is higher weekend spending during the festive season. 
+
+In conclusion, the spending habits are generally consistent and predictable with expenses being kept low. These expenses are the bare minimum to meet basic needs, which include Food, personal and home. Weekday spendings tend to increase in the second half of the year, whereas weekend spending increases during the festive season.  
+
+
+
 
